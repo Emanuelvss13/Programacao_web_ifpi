@@ -1,0 +1,23 @@
+*{
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  box-sizing: border-box;
+}
+
+html, body{
+  height: 100%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+
+div.container{
+  color: white;
+  text-align: center;
+  padding: 20%;
+  background-color: purple;
+  border-radius: 10px;
+}
