@@ -42,7 +42,8 @@ def __main__():
 
 
 def getResponse(link):
-    response = requests.get(link)
+    request = requests.Session()
+    response = request.get(link)
     if(response.status_code == 200):
         soup = BeautifulSoup(response.text, 'html.parser')
         return soup
