@@ -22,3 +22,6 @@
 <hr>
 <h2>Questão 007</h2>
 <p>Implementada</p>
+<hr>
+<h2>Questão 008</h2>
+<p>Implementada</p>
