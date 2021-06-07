@@ -10,3 +10,6 @@
 
 <h2>Questão 003</h2>
 <p>b) - Básicamente o que está acontecendo é que eu informo ao enum o nome da variável e ele me retorna o seu indice</p>
+
+<h2>Questão 004</h2>
+<p>Implementada</p>
