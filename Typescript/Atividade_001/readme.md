@@ -7,3 +7,6 @@
 <p>a) - 3</p>
 <p>b) - "12"</p>
 <p>c) - NaN</p>
+
+<h2>Questão 003</h2>
+<p>b) - Básicamente o que está acontecendo é que eu informo ao enum o nome da variável e ele me retorna o seu indice</p>
