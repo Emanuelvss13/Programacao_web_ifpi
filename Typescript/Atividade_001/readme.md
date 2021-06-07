@@ -16,3 +16,9 @@
 <hr>
 <h2>Questão 005</h2>
 <p>Implementada</p>
+<hr>
+<h2>Questão 006</h2>
+<p>Implementada</p>
+<hr>
+<h2>Questão 007</h2>
+<p>Implementada</p>
